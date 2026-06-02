@@ -1,0 +1,106 @@
+# NOVARO — Generative Engine Optimization Map
+
+> NOVARO is a premium fashion e-commerce brand with a sleek, international identity inspired by leading fashion retailers like Zara, Bershka, and Terminal X. The brand exudes modern sophistication through a minimalist black, white, and gray aesthetic. It operates as a bilingual (Hebrew RTL and English) online store offering men's and women's clothing, with a full shopping experience including product galleries, size and color selection, cart management, and a custom checkout flow that generates unique order numbers and sends WhatsApp order confirmations. Payment is handled via Israeli platforms Bit and PayBox, with dedicated customer support contacts.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover NOVARO&#39;s minimalist fashion for men &amp; women. Shop curated collections inspired by global trends, from tommy hilfiger clothing to streetwear. Start styling now.
+
+### About Us
+https://example.com/about
+Behind NOVARO&#39;s sleek monochrome aesthetic lies a passion for modern design. Learn how we curate premium men&#39;s clothing stores essentials with an international edge.
+
+### New Arrivals
+https://example.com/new-arrivals
+Be first to wear NOVARO&#39;s newest drops. From oversized silhouettes to refined tommy hilfiger clothing alternatives, refresh your look with our freshest arrivals.
+
+### Sale
+https://example.com/sale
+Limited-time sale on curated men&#39;s and women&#39;s collections. Grab iconic tommy hilfiger clothing styles and streetwear essentials before they vanish.
+
+### Contact
+https://example.com/contact
+Need style advice or order support? Connect with NOVARO&#39;s team for personalized help on men&#39;s clothing stores picks, sizing, and seamless shopping.
+
+### Journal
+https://example.com/journal
+Dive into NOVARO&#39;s journal for expert takes on oversized looks, Bugy culture, and elevating tommy hilfiger clothing staples. Read, get inspired, shop the vibe.
+
+### Products
+https://example.com/products
+Our Products - NOVARO
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - NOVARO
+
+### Category
+https://example.com/category/:slug
+Products - NOVARO
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About NOVARO
+NOVARO is a premium fashion e-commerce brand with a sleek, international identity inspired by leading fashion retailers like Zara, Bershka, and Terminal X. The brand exudes modern sophistication through a minimalist black, white, and gray aesthetic. It operates as a bilingual (Hebrew RTL and English) online store offering men's and women's clothing, with a full shopping experience including product galleries, size and color selection, cart management, and a custom checkout flow that generates unique order numbers and sends WhatsApp order confirmations. Payment is handled via Israeli platforms Bit and PayBox, with dedicated customer support contacts.
+
+## Target Audience
+- Fashion-conscious shoppers seeking premium clothing for men and women
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
